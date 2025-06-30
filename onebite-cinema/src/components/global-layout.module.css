@@ -1,0 +1,18 @@
+.container {
+  background-color: black;
+  max-width: 800px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 20px 20px;
+  color: white;
+}
+
+.header {
+  font-size: 20px;
+}
+
+.header > a {
+  color: rgb(229, 9, 20);
+  font-weight: bold;
+  text-decoration: none;
+}
